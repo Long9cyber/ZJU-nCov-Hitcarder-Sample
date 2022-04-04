@@ -1,4 +1,4 @@
-name: ZJU-nCov-Hitcarder Sample
+name: 删库跑路了ZJU-nCov-Hitcarder Sample
 
 on:
   workflow_dispatch:
